@@ -1,0 +1,221 @@
+{
+    "CD701_LS6C3E2X1SK400063_2025-07-24_11-34-44": {
+        "scenario": "curve",
+        "takeover": "collision",
+        "obstacle": "front_static_vehicle",
+        "human_behavior": "left_lane_change",
+        "frames": 600
+    },
+    "CD701_LS6C3E2X7SK400066_2025-10-23_19-30-54": {
+        "scenario": "curve_night",
+        "takeover": "collision",
+        "obstacle": "front_static_vehicle",
+        "human_behavior": "left_lane_change",
+        "frames": 600
+    },
+    "CD701_LS6C3E2X2RA400055_2025-10-14_17-48-16": {
+        "scenario": "intersection_left_turn",
+        "takeover": "collision",
+        "obstacle": "right_turning_vehicle",
+        "human_behavior": "left_lane_change",
+        "frames": 600
+    },
+    "CD701_LS6C3E2X8RA400058_2025-09-17_16-43-36": {
+        "scenario": "mainroad",
+        "takeover": "collision",
+        "obstacle": "again_traffic_pedestrains",
+        "human_behavior": "left_steer",
+        "frames": 600
+    },
+    "CD701_LS6C3E2X8RA400058_2025-09-17_19-40-55": {
+        "scenario": "merge",
+        "takeover": "collision",
+        "obstacle": "front_cuttin_vehicle",
+        "human_behavior": "decelerate",
+        "frames": 600
+    },
+    "CD701_LS6C3E2XXRA400059_2025-10-24_18-42-07": {
+        "scenario": "merge",
+        "takeover": "collision",
+        "obstacle": "left_moving_vehicle",
+        "human_behavior": "decelerate",
+        "frames": 600
+    },
+    "CD701_LS6C3E2X8RA400058_2025-09-16_20-39-03": {
+        "scenario": "mainroad",
+        "takeover": "collision",
+        "obstacle": "front_cyclist",
+        "human_behavior": "left_lane_change",
+        "frames": 600
+    },
+    "CD701_LS6C3E2X7SK400066_2025-10-24_21-39-38": {
+        "scenario": "mainroad",
+        "takeover": "collision",
+        "obstacle": "right_moving_vehicle",
+        "human_behavior": "left_steer",
+        "frames": 600
+    },
+    "CD701_LS6C3E2X2RA400055_2025-10-14_15-54-08": {
+        "scenario": "mainroad",
+        "takeover": "collision",
+        "obstacle": "front_static_vehicle",
+        "human_behavior": "left_lane_change",
+        "frames": 600
+    },
+    "CD701_LS6C3E2X7SK400066_2025-10-22_19-07-34": {
+        "scenario": "mainroad",
+        "takeover": "collision",
+        "obstacle": "front_static_vehicles",
+        "human_behavior": "left_lane_change",
+        "frames": 600
+    },
+    "CD701_LS6C3E2X8RA400058_2025-09-17_14-23-45": {
+        "scenario": "mainroad",
+        "takeover": "collision",
+        "obstacle": "right_moving_vehicle",
+        "human_behavior": "decelerate_lane_change_quit",
+        "frames": 600
+    },
+    "CD701_LS6C3E2X7SK400066_2025-10-24_19-33-30": {
+        "scenario": "mainroad",
+        "takeover": "collision",
+        "obstacle": "right_moving_vehicle",
+        "human_behavior": "decelerate_lane_change_quit",
+        "frames": 600
+    },
+    "CD701_LS6C3E2XXRA400059_2025-10-23_17-45-21": {
+        "scenario": "mainroad",
+        "takeover": "collision",
+        "obstacle": "front_static_vehicle",
+        "human_behavior": "left_lane_change",
+        "frames": 600
+    },
+    "CD701_LS6C3E2X2SK400041_2025-10-21_11-16-50": {
+        "scenario": "intersection_right_turn",
+        "takeover": "collision",
+        "obstacle": "front_crossing_pedestrain",
+        "human_behavior": "decelerate",
+        "frames": 600
+    },
+    "CD701_LS6C3G349RA400103_2025-08-07_14-21-22": {
+        "scenario": "split",
+        "takeover": "wrong_way",
+        "obstacle": "enter_left_lane",
+        "human_behavior": "select_right_lane",
+        "frames": 600
+    },
+    "CD701_LS6C3E2XXRA400059_2025-10-21_16-49-20": {
+        "scenario": "intersection_go_straight",
+        "takeover": "wrong_way",
+        "obstacle": "enter_left_lane",
+        "human_behavior": "select_middle_lane",
+        "frames": 600
+    },
+    "CD701_LS6C3E0M6PA000036_2025-10-27_11-03-26": {
+        "scenario": "intersection_go_straight",
+        "takeover": "wrong_way",
+        "obstacle": "enter_left_lane",
+        "human_behavior": "select_middle_lane",
+        "frames": 600
+    },
+    "CD701_LS6C3E0M6PA000036_2025-10-15_18-41-38": {
+        "scenario": "intersection_left_turn",
+        "takeover": "wrong_way",
+        "obstacle": "enter_straight_lane",
+        "human_behavior": "select_left_lane",
+        "frames": 600
+    },
+    "CD701_LS6C3E2X8RA400058_2025-09-17_15-37-53": {
+        "scenario": "intersection_right_turn",
+        "takeover": "slow_speed",
+        "obstacle": "right_static_vehicle",
+        "human_behavior": "accelerate_left_lane_change",
+        "frames": 600
+    },
+    "CD701_LS6C3E2X2SK400041_2025-10-24_15-21-42": {
+        "scenario": "mainroad",
+        "takeover": "slow_speed",
+        "obstacle": "front_cyclist",
+        "human_behavior": "accelerate_left_lane_change",
+        "frames": 600
+    },
+    "CD701_LS6C3G34XRA400112_2025-10-13_14-22-26": {
+        "scenario": "mainroad",
+        "takeover": "slow_speed",
+        "obstacle": "front_static_vehicle",
+        "human_behavior": "accelerate_left_lane_change",
+        "frames": 600
+    },
+    "CD701_LS6C3E2X2RA400055_2025-10-24_10-43-41": {
+        "scenario": "mainroad",
+        "takeover": "slow_speed",
+        "obstacle": "front_static_vehicle",
+        "human_behavior": "accelerate_left_lane_change",
+        "frames": 600
+    },
+    "CD701_LS6C3G341RA400113_2025-10-17_16-30-42": {
+        "scenario": "mainroad",
+        "takeover": "slow_speed",
+        "obstacle": "front_static_vehicle",
+        "human_behavior": "accelerate_left_lane_change",
+        "frames": 600
+    },
+    "CD701_LS6C3E2X7SK400066_2025-10-16_16-35-28": {
+        "scenario": "mainroad",
+        "takeover": "slow_speed",
+        "obstacle": "front_static_vehicle",
+        "human_behavior": "accelerate_left_lane_change",
+        "frames": 600
+    },
+    "CD701_LS6C3E2XXRA400059_2025-10-21_17-23-25": {
+        "scenario": "mainroad",
+        "takeover": "slow_speed",
+        "obstacle": "front_slow_vehicle",
+        "human_behavior": "no takeover",
+        "frames": 600
+    },
+    "CD701_LS6C3E0M6PA000036_2025-10-24_20-49-36": {
+        "scenario": "intersection_right_turn",
+        "takeover": "off_road",
+        "obstacle": "right_roadside",
+        "human_behavior": "left_steer",
+        "frames": 600
+    },
+    "CD701_LS6C3G341RA400113_2025-10-21_22-09-24": {
+        "scenario": "intersection_left_turn",
+        "takeover": "off_road",
+        "obstacle": "left_roadside",
+        "human_behavior": "right_steer",
+        "frames": 600
+    },
+    "CD701_LS6C3E2X7SK400066_2025-10-22_14-17-03": {
+        "scenario": "curve",
+        "takeover": "off_road",
+        "obstacle": "right_roadside",
+        "human_behavior": "left_steer",
+        "frames": 600 
+    },
+    "CD701_LS6C3E2XXRA400059_2025-10-24_16-45-42": {
+        "scenario": "intersection_right_turn",
+        "takeover": "off_road",
+        "obstacle": "right_roadside",
+        "human_behavior": "left_steer",
+        "frames": 600 
+    },
+    "CD701_LS6C3G34XRA400112_2025-10-21_14-30-37": {
+        "scenario": "intersection_right_turn",
+        "takeover": "traffic_violation",
+        "obstacle": "solid_line",
+        "human_behavior": "right_steer",
+        "frames": 600 
+    },
+    "CD701_LS6C3G0Y1RA960043_2025-10-23-14-49-47_2025-10-23-14-50-38": {
+        "scenario": "intersection_right_turn",
+        "takeover": "traffic_violation",
+        "obstacle": "solid_line",
+        "human_behavior": "right_steer",
+        "frames": 600
+    }
+}
+
+
