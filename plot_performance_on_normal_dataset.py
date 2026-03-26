@@ -124,7 +124,7 @@ y_max = max(np.max(data_nonzero_all[0]), np.max(data_nonzero_all[1]))
 
 for i, rate in enumerate(collision_rate):
     text_str = f"Collision rate: \n{rate:.2f}%"
-    ax.text(i + 1, y_max * 1.18, 'Collsion rate',
+    ax.text(i + 1, y_max * 1.18, 'Collision rate',
             ha='center', va='bottom', fontsize=12, fontweight='normal', color='#333333')
     ax.text(i + 1, y_max * 1.08, f'{rate:.2f}%',
             ha='center', va='bottom', fontsize=14, fontweight='normal', color='black')
